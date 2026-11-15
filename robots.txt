@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://owaismahmooddar.github.io/sitemap.xml
